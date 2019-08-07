@@ -1,0 +1,19 @@
+{
+    "name": "flk-clock",
+    "description": "Display current time in digital shape for Falak Js",
+    "version": "0.1.2",
+    "keywords": [   
+        "clock",
+        "time",
+        "javascript",
+        "flk"
+    ],
+    "author": {
+        "email": "hassanzohdy@gmail.com",
+        "name": "Hasan Zohdy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/falakjs/flk-clock"
+    }
+}
