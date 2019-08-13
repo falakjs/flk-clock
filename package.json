@@ -1,9 +1,9 @@
 {
     "name": "flk-clock",
     "description": "Display current time in digital shape for Falak Js",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "main": "dist/flk-clock.component.js",
-    "keywords": [   
+    "keywords": [
         "clock",
         "time",
         "javascript",
